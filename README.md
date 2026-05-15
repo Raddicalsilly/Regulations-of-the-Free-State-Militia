@@ -2,6 +2,8 @@
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+[![Hugging Face Dataset](https://img.shields.io/badge/🤗-Hugging%20Face%20Dataset-yellow)](https://huggingface.co/datasets/RaddicalSilly/Regulations-of-the-Free-State-Militia)
+
 ## ⚖️ STATUS: BINDING CONSTITUTIONAL LAW ⚖️
 
 These Regulations fulfill the Second Amendment's 234-year-unmet command that "a well regulated Militia [is] necessary to the security of a free State." They exercise the People's reserved power under the Tenth Amendment and are binding under Article VI, Clause 2 as the supreme Law of the Land.
