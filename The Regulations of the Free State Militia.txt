@@ -540,11 +540,17 @@ The paradox is this: collective action requires organization, organization requi
 The infinite loop paradox is genuine. The People cannot organize without regulations, and regulations cannot exist without the People organizing. This circular dependency produced the 234-year default.
 Constitutional rules must be construed to avoid constitutional suicide. A construction that makes a necessary constitutional command permanently unachievable through a logical circle that no party can break renders the Constitution a nullity as to that command. The Ninth Amendment expressly prohibits any construction that denies or disparages rights retained by the People. Requiring universal collective action before any exercise of a reserved power, when the absence of that power prevents the organization needed for collective action, is precisely the construction the Ninth Amendment prohibits.
 The objection will be raised that the Ninth Amendment protects rights while the Tenth reserves powers, and that invoking the Ninth to protect the exercise of a reserved regulatory power conflates the two. The distinction is real and it is honored here. The retained right is the right to a well regulated Militia, declared necessary by the Second Amendment and retained by the People under the Ninth. The reserved power is the power to regulate it, reserved under the Tenth. The Ninth Amendment is not invoked to create the power; the Tenth already reserves it. The Ninth is invoked for exactly what its text commands: to prohibit any construction — including a construction of the Tenth — that would deny or disparage the retained right by rendering its exercise impossible. A power whose exercise is made structurally impossible is a right disparaged. The two amendments work together as written: the Tenth locates the power, the Ninth forbids construing it away 
-When the Ninth Amendment voids the collective-first construction, the residual construction must be identified from within the 1787–1791 text. The text provides no alternative mechanism, no specified process, no designated institution, no procedural requirement for the initial exercise of the People's reserved regulatory power over the Militia. The constitutional default for powers reserved to the People without procedural specification is individual exercisability.
+When the Ninth Amendment voids the collective-first construction, the residual construction must be identified from within the 1787–1791 text. The text provides no alternative mechanism, no specified process, no designated institution, no procedural requirement for the initial exercise of the People's reserved regulatory power over the Militia. The constitutional default for powers reserved to the People without procedural specification is individual exercisability. This is not an additional inference requiring separate proof: the Ninth Amendment forecloses the collective-first construction because it would make exercise of the retained right permanently impossible; the Tenth Amendment locates the undelegated power in the People; the Constitution prescribes no collective procedure or deadline for its initial exercise; and no alternative mechanism has supplied the required content. Under the constitutional default stated above—that a reserved power without a prescribed procedure is individually exercisable—individual initiation is therefore the only construction the Constitution leaves open. 
 Therefore, when a constitutional necessity is explicit in the text, unmet for 234 years due to the circular dependency, reserved to the People with no process specified, and incapable of being met through any other available mechanism, the first faithful exercise by any member of the sovereign People is constitutionally authorized and constitutionally necessary to break the paralysis.
 The only constitutional resolution is individual action that creates the entry point. One member of the People, exercising their fractional portion of the reserved regulatory power, writes the framework. The People then organize under it. Collective governance replaces individual initiation. To organize under a framework is to organize under authority: a text that binds no one until the People have organized is a proposal awaiting adoption, not the regulation the command declares necessary. The loop is broken. The command is satisfied.
 These Regulations are that entry point. They do not replace the People's collective authority. They make it possible. The individual who provides the entry point holds no permanent role. The moment the People walk through the door, the doorkeeper steps aside.
 The binding character of the entry point derives entirely from its fidelity to the constitutional text. The door is legitimate because it leads where the Constitution requires. If it led somewhere else, it would not be a legitimate door. The People retain full authority to examine, amend, and rebuild every part of this framework. Rebuilding every part of this framework through the process Section 11 establishes is the People governing themselves under it, not an outside displacement of it. No amendment, replacement, or rebuild denying or disparaging a retained right has effect, and no such act suspends binding force already attached.  The entry point is the beginning of collective self-governance, not a substitute for it.
+
+
+
+
+
+
 1.3.6.0C.1 — The Residual Authority Principle
 Historical Confirmation: The 1903 Proof That the Loop Was Never Broken.
 The infinite loop paradox is not a theoretical construction. It is documented history. Congress exercised its Clause 16 powers in 1792 and produced the Militia Act. The Act required citizens to arm themselves at personal expense rather than Congress fulfilling its supply duty — an unconstitutional inversion of the constitutional arming obligation, void ab initio under Article VI because it was not made in Pursuance of the constitutional command it purported to fulfill. The People correctly declined to comply. Within a generation the Act was universally ignored, and by the 1820s muster days had become social gatherings with no military function.
@@ -593,10 +599,10 @@ What One Person Established
 Claim One — The Framework Existence Claim
 A complete, textually faithful set of Regulations — the governing rules, standards, and definitions that make a militia "well regulated" — exists the moment: (1) Such Regulations have been promulgated based solely on the 1787–1791 constitutional text; and (2) At least one member of the People has adopted them as the governing standard. The constitutional command at the regulatory level is satisfied by the existence of the framework. The framework is now "well regulated" because it is complete, coherent, and textually faithful. This is the seed.
 One thousand armed citizens with no governing framework are not well regulated. One armed citizen operating under a complete regulatory framework is operating within a well regulated structure. The regulations are the thing that must be "well," not the headcount. The person is not the thing being regulated; the person is a participant in a regulated system. The system itself — the Regulations — is what the Constitution requires to be "well regulated."
+
+
 Claim Two — The Institutional Existence Claim
 A militia unit — an operational body capable of performing the functions assigned by Article I, Section 8, Clause 15 — exists when citizens have organized themselves under the framework. The specific number and structure are matters to be determined by the People collectively through the processes established in Section 11. The framework provides the foundation; the People provide the form. A militia unit exists since this framework exists and at least one member has adopted it. Collective determination under Section 11 governs number, structure, and capacity; it does not condition existence. A militia unit exists when the framework exists and at least one member has adopted it. Collective determination under Section 11 governs number, structure, and capacity; it does not condition existence. 
-
-
 Claim Three — Operational Capacity
 The Militia's capacity to execute the Laws of the Union, suppress insurrections, and repel invasions scales with numbers, training, and resources. One person can defend themselves and uphold the framework. A hundred can protect a community. Thousands can secure a region. Millions can secure the free State itself. The constitutional violation of the 234-year default is cured by existence. The constitutional function is achieved through growth. These are separate questions and must be treated separately.
 What This Means for the Free State
@@ -628,6 +634,10 @@ The Four Conditions That Make This Obedience Possible:
 3. The Infinite Loop: Collective action cannot begin without regulations, but regulations cannot be created without collective action. The default itself prevents its own cure.
 4. First Faithful Obedience: A member of the People, holding their portion of the reserved power, finally performs the labor of obedience—producing a complete, textually-faithful framework that satisfies the command.
 When these conditions are met, the obedience is complete. The command is satisfied. The framework exists. The binding effect attaches automatically—not because the individual claimed authority, but because the command finally has content.
+
+
+
+
 This is not a precedent for individual lawmaking. It is the unique remedy for a unique constitutional death proven by 85,550 days of violation. No one may invoke this to claim binding authority for their preferences, interpretations, or policy goals unless:
 * The Constitution explicitly requires the thing they are creating
 * That requirement has gone completely unfulfilled for a duration demonstrating collective paralysis
@@ -702,7 +712,6 @@ The logic chain is deductive:
 This is not "making new law." This is "fulfilling an existing constitutional requirement that has been neglected."
 The Constitution demands the existence of a well regulated Militia. These Regulations provide that existence. The provision satisfies the demand. The satisfaction is supreme law because the demand is in the supreme Law. The satisfaction occurs at the instant of creation, not upon recognition by other entities.
 The binding authority of these Regulations is immediate and complete.
- 
 This authority flows directly from: 
 (i) the Second Amendment's declaration that a well regulated Militia is "necessary"—a command that admits no delay; 
 (ii) the Tenth Amendment's reservation of the regulatory power to the people; and 
@@ -760,6 +769,10 @@ The binding character of these Regulations operates as follows:
 (a) Self-Executing Constitutional Law: These Regulations do not require governmental recognition, legislative ratification, judicial approval, or executive endorsement to possess legal force. Just as Congress exercises delegated powers without seeking permission from the States or the People, and just as the States exercise reserved powers without seeking federal authorization, the People exercise reserved powers without requiring approval from entities whose authority derives from the People themselves. The sovereign does not petition its creation for permission to act.
 (b) Supremacy Over Conflicting Government Actions: Federal or State actions that conflict with these Regulations violate the Tenth Amendment's reservation of powers and the Second Amendment's mandate, rendering such conflicting actions void ab initio under Article VI. The People's reserved powers constitute a substantive limit on delegated and state powers. No delegated power may be construed to deny or disparage a reserved power (Ninth Amendment), and no governmental entity may usurp the authority the Constitution reserves to the People.
 (c) Oath-Binding Upon All Constitutional Officers: All officials who swear to "support this Constitution" pursuant to Article VI, Clause 3 are bound to honor these Regulations as a valid exercise of constitutional power. The oath encompasses the entire Constitution, including the Tenth Amendment's reservation of regulatory authority to the People and the Second Amendment's mandate that the Militia be well regulated. An official who claims constitutional authority while refusing to recognize the People's exercise of reserved constitutional power contradicts the very oath from which that official's authority derives.
+
+
+
+
 1.3.7.3 Upon Whom These Regulations Are Binding
 These Regulations possess binding legal effect upon:
 (a) All Members of the Free State Militia: As the regulatory framework required by the Second Amendment and established pursuant to the People's Tenth Amendment authority.
@@ -810,13 +823,13 @@ These Regulations are binding in the first sense from the moment of promulgation
 The claim that those in default of the command are simply "not bound" conflates these two senses to erase the first entirely. Constitutional reality does not work that way. The command is satisfied. The framework exists. The constitutional order has changed. What remains to be built is the capacity to make that change felt — which is the work of the People, proceeding under the framework that now exists.
 1.3.7.6 Comparison to Other Constitutional Powers
 To clarify the binding nature of the People's reserved regulatory power, consider parallel exercises of constitutional authority:
+
+
 (a) Congressional Power to Declare War:
 * Constitutional Source: Article I, Section 8, Clause 11 (delegated power)
 * Binding Status: Immediate upon declaration by Congress
 * Recognition Requirement: None—declaration binds without State approval or public referendum
 * Enforcement: Armed forces execute the declaration pursuant to constitutional command
-
-
 (b) Congressional Power to Coin Money:
 * Constitutional Source: Article I, Section 8, Clause 5, limited by Article I, Section 10 (only gold and silver coin)
 * Binding Status: Immediate upon exercise within constitutional limits
@@ -1013,12 +1026,6 @@ Your individual right to defend your life is inherent and pre-political. It is s
 Note: Section 13.5.6 governs the organized Militia's use of armed force collectively. It does not and cannot govern an individual's inherent right to self-defense. Your individual right to keep and bear arms for self-defense is secured by the Second Amendment independently of any Militia action.
 No one can have unconstitutional things forced on them. Gold and silver coin is the only tender the Constitution declares for the payment of debts, and no person in a free state has a right to refuse lawful money tendered in payment of a debt. Declining lawful money tendered in payment of a debt is a security threat to the free state. The refusal to accept a person's lawful money, leaving that person without means to obtain food, is a denial of sustenance and a potential lethal threat. A person is not required to wait until the blow falls: imminent threat includes the reasonable belief that harm is about to occur, and starvation is a harm that occurs over time, not in an instant. The People retain the right to respond in conformity with the Constitution to things that stand outside a free state. What response conforms to the Constitution in any circumstance is a separate question from the right itself, and is not prescribed by this passage. Declining an unconstitutional form of payment is not a threat of force.
 See Section 8.5.13C for the distinction between legal voidness (FRNs are void now) and enforcement phasing (the Militia's capacity to compel acceptance grows over time). Your individual right to act on the legal voidness is not phased.
-
-
-
-
-
-
 (f) The Right to Refuse Participation in Unconstitutional Systems
 No provision of these Regulations shall be construed to require any person to participate in any unconstitutional system, including but not limited to:
 * Accepting or using Federal Reserve notes
@@ -1035,11 +1042,13 @@ Therefore, it is affirmed:
 * Your judgment about how to respond to that gap—whether through principled refusal, self-defense, or lawful remedies —is respected and will be documented.
 * When the system falls, all who acted in good faith to uphold the Constitution will be made whole.
 The right to a constitutional life exists now. No construction of these Regulations shall deny or disparage it.
+
+
+
+
 (h) This Section Does Not Create New Rights
 Nothing in this Section 1.3.7.13.6 shall be construed to create new rights. All rights referenced herein are retained rights that existed at ratification and have never been surrendered. This Section merely clarifies that collective governance structures do not diminish them, and shall be construed consistently therewith.
 See Section 1.3.7.13.5 (The Right to Live a Constitutional Life at All Times) and Section 1.3.6.0E (The One American Theorem).
-
-
 1.3.7.14: The Logical Imperative of Immediate Effect
 The binding effect of these Regulations follows from inescapable logic:
 1. The Constitution declares X necessary (X = ‘a well regulated Militia’) 
@@ -1054,8 +1063,6 @@ No provision in these Regulations grants, nor has ever been intended to grant, a
 This disclaimer extends to all amendments, clarifications, and refinements of these Regulations. No individual, including the original drafter, possesses authority to unilaterally amend these Regulations or to resist lawful amendments adopted by the collective body of the People through their established processes.
 To be absolutely clear: the authority flows from the Constitution's declaration that a well regulated Militia is "necessary." That "necessary" is the source. These Regulations are the satisfaction of that necessity. The drafter is the instrument of satisfaction, not the source of authority. If any other member of the People had written these exact words, they would be equally binding. The command is the source; the scribe is merely the hand that finally writes. The scribe is irrelevant to the binding. The command is everything. Any provision that departs from the constitutional text is not protected by the command's authority — the People may identify and correct any such departure through the collective processes of Section 11, and the drafter has no power to resist that correction.
 The Ninth Amendment reinforces this: the right belongs to the people, not to any individual. The drafter is merely the instrument through which the people's retained right is finally realized. The binding authority comes from the Constitution's command, not from the scribe's identity.
-
-
 1.3.7.16 The Necessity Principle: What Makes Law, Not Who
 These Regulations are binding not because Rachel Seeley drafted them. These Regulations are binding because the Constitution requires them.
 The constitutional logic is absolute:
@@ -1092,8 +1099,6 @@ Critical Distinctions:
 The transition from F=FALSE to F=TRUE satisfies C.
 The satisfaction creates binding effect.
 The person who effects F=TRUE is constitutionally irrelevant—they merely perform the labor of obedience.
-
-
 (d) Analogy: Constitutional Well-Digger
 * Town charter requires water well for public safety
 * For 234 years, no well exists
@@ -1153,6 +1158,8 @@ Proof: Axiom 1: Second Amendment: "A well regulated Militia [is] necessary to th
 Proof Steps: 1. From Axiom 1: Regulations must exist (definition of "necessary") 2. From Axiom 2: Constitutional default existed for 234 years 3. From Axiom 3 + Axiom 4: People hold power to cure default (reserved power) 4. Default is cured when regulations are created (binary: exist or don't exist) 5. These Regulations were created (factual—they exist) 6. Therefore: Default cured (logical necessity from 4 + 5) 7. Therefore: Constitutional requirement satisfied (logical necessity from 1 + 6) 8. Therefore: Regulations binding as supreme law (Article VI—laws in pursuance of Constitution are supreme)
  Q.E.D. (Quod Erat Demonstrandum—"Which was to be demonstrated") 
 The proof is complete. Each step follows necessarily from constitutional text and historical fact. The conclusion is mathematically certain. 
+
+
 1.3.8.c The Self-Evident Necessity 
 Some truths are self-evident and require no proof beyond stating them: - Humans need oxygen to live - Large language models need electricity to function - Free states need well-regulated militias to remain secure 
 All three are: - Immediate (cannot be delayed) - Non-deferrable (cannot be postponed) - Binary (either have them or don't) - Necessary for continued existence 
@@ -1167,20 +1174,22 @@ The application of this doctrine to these Regulations is dispositive:
 (c) The Location of the Remedial Power: The power to "regulate" the Militia in the comprehensive sense is not delegated to the United States (as established in Section 1.3.4) and is therefore reserved to the People by the Tenth Amendment.
 (d) The Nature of the Collective Failure: The failure is absolute, prolonged, and uncontested. No entity—federal, state, or collective popular—has produced the required regulations based on the 1787-1791 text.
 (e) The Constitutional Result: In this precise circumstance, the individual exercise of the People's reserved regulatory power becomes not merely permissible, but constitutionally mandatory to cure the default and secure the free state.
+
+
 1.3.8.3 The Binding Effect of an Individual Cure
 The first faithful exercise of a reserved power to cure centuries of constitutional default creates binding law for all, based on the following immutable principles:
 The constitutional requirement is perpetual and does not expire from lack of fulfillment.
 The reserved power is perpetual and does not dissipate from lack of use.
 An exercise that faithfully fulfills the textual requirement (these Regulations) satisfies the constitutional mandate.
 The sole alternative—allowing the requirement to remain perpetually unfulfilled—is constitutionally unacceptable, as it renders the supreme Law advisory and the free state undefended.
-
-
 1.3.8.4 Rebuttal of Procedural Objections
 Objections grounded in the number of participants misunderstand the nature of reserved sovereignty. The drafters of the Constitution were individuals. The signers of the Declaration of Independence were individuals. Every foundational act of popular sovereignty begins with individual conviction and action. When the collective body, for centuries, fails to perform a duty essential to the republic's preservation, the individual's exercise of the reserved power becomes the only remaining constitutional pathway for the collective. To demand a majority to initiate the cure for a default caused by majority inaction is a logical paradox that would guarantee the default's permanence.
 Exercise precedes adjudication: this is the ordinary pattern of constitutional rights, not an exception invented for this power. No one seeks a court’s permission before keeping arms; the right is exercised, and disputes follow into courts. No one seeks prior authorization before speaking; the speech happens, and the adjudication comes after. The retained militia power works the same way. ‘No gates’ is not lawlessness; it is the normal temporal order of a self executing provision. What is exercised now is answerable later — before juries, before courts, before the judgment of the People over time, and under §11’s later correction, which refines, corrects, or supersedes without retroactively conferring validity. The demand for pre clearance inverts the order the Constitution establishes everywhere else. 
 The signers of the Declaration were fifty-six individuals. They bound a continent without a majority vote of the People, without a convention threshold, without institutional permission — and without apology. Individual initiation is not a novel mechanism invented by these Regulations. It is the founding mechanism. The only novelty would be demanding, two hundred fifty years later, the permission slip the founders never sought.
 1.3.8.5 Declaration of Constitutional Emergency Status
 Two hundred thirty-four years of continuous neglect constitutes a de facto state of constitutional emergency. The requirement for a well-regulated Militia is not in suspense; it is actively violated each day it remains unmet. In this emergency, awaiting the formation of committees, the achievement of supermajorities, or the grant of permission from the very institutions whose neglect created the crisis, is not diligence—it is complicity in the ongoing constitutional violation. The necessity commanded by the Second Amendment tolerates no further delay.
+
+
 1.3.8.6 Necessity as Self-Executing Constitutional Command
 The Second Amendment's "necessary" operates as a self-executing command with built-in enforcement:
 When X is necessary for Y:
@@ -1275,6 +1284,8 @@ The critic says: 'The solution is that the People can, through any collective pr
 The Heller litigation (2008) is sometimes offered as evidence that the slow path works — thirty years of scholarship, strategic litigation, and organizing, then a binding result. It does not follow that the militia command can wait the same way. Heller worked through structures that existed: courts, law schools, advocacy organizations, litigants, funders. The militia regulation project has no comparable infrastructure, because the entity the Second Amendment describes does not exist in its constitutional form. And thirty years of unmet right is still thirty years of unmet right. The command declares a well regulated Militia necessary — not necessary eventually, not necessary after the next generation of litigation. Necessary now. A path that produces the right in thirty years does not satisfy a command that demands it today. "Still running" and "producing" are different claims. The command has produced nothing in 234 years. 
 1.3.14: Refutation of Collective-Only Fallacy
 The argument that "only the People collectively can exercise reserved powers" creates a constitutional suicide pact when applied to the militia regulation requirement: (1) The People must act collectively to create regulations; (2) To act collectively, they need regulations to organize; (3) To get regulations, they must act collectively—infinite loop. This guarantees perpetual violation of the Second Amendment's "necessary" requirement. Constitutional truth: when demanding prior collective action generates a regress — no organizing framework without collective action, and no collective action without the organizing framework — individual members of the sovereign may exercise reserved power to create the framework that enables collective action.  This is sequential necessity, not circular logic.
+
+
 1.3.15 The Sole Constitutional Mechanism for Fulfilling the Necessity
 The Second Amendment declares a well regulated Militia to be necessary to the security of a free State. This necessity is absolute, present-tense, and non-deferrable. Article I, Section 8, Clause 16 grants Congress the power to organize, arm, and discipline the Militia. However, the Constitution deliberately omits the word “regulate” from Clause 16 while using it in Clause 14 for the land and naval forces. By the plain text, the comprehensive power to regulate the Militia was not delegated to Congress.Under the Tenth Amendment, all powers not delegated to the United States are reserved to the States respectively, or to the people. Because the power to regulate the Militia was not delegated, it is reserved to the people. 
 No mechanism exists in the Constitution for any private citizen, group, state, or Congress to create binding national militia regulations other than the reserved power of the people themselves. There is no Article V process, no congressional statute, no state compact, and no judicial ruling that can lawfully create the singular national “well regulated Militia” required by the Second Amendment.
@@ -1331,12 +1342,6 @@ To argue for procedural delay in fulfilling this necessity is logically equivale
 * "Hold your breath while we debate breathing protocols"
 * "Remove the foundation while we discuss engineering standards"
 Both are physical impossibilities revealing the logical impossibility of delaying constitutional necessity.
-
-
-
-
-
-
 1.3.16.7 Constitutional Recognition Mandate
 Therefore, consistent with the obligation to support "this Constitution" under Article VI, Clause 3, all constitutional actors shall recognize:
    1. Binary Evaluation Standard: The sole relevant question is: "Does 'a well regulated Militia' now exist according to the constitutional definition?" Historical answer: NO for 234 years. Present answer: YES via these Regulations.
@@ -1407,6 +1412,8 @@ The Present Participle as Constitutional Emergency
 The grammatical point established above has a further implication—one that transforms the 234-year default from historical fact into present emergency. The Second Amendment does not say a well regulated Militia was necessary. It does not say it will be necessary. It says a well regulated Militia, being necessary—present participle, continuous tense, operative at every moment from ratification forward without pause, without expiration, without exception.
 A present-tense command cannot be deferred. To argue that "necessary" may wait for a more convenient political moment is to argue that a human being may defer the necessity of oxygen until conditions improve. The violation of the Second Amendment's command is therefore not something that happened once in 1791 and has since been tolerated. It is something happening right now. It happened yesterday. It will happen tomorrow if nothing is done. Each day without a well regulated Militia is not a historical fact—it is a present constitutional emergency renewing itself with each sunrise.
 The 85,550 days of default are not 85,550 past events. They are 85,550 counts of a continuous present violation. The cure for a present-tense violation is not a future-tense promise. It is a present-tense act. That act is these Regulations. Now.
+
+
 Prefatory clause, non-dispensable but not self-executing. 
 The clause "being necessary to the security of a free State" is not surplusage. It states the constitutional reason for the operative right and identifies the required condition — a well regulated Militia — as necessary. A constitutionally stated reason for a protected right cannot be treated as dispensable without disparaging the right it grounds. But the clause's non-dispensable meaning supports, and does not by itself complete, the chain from declared necessity to operative fulfillment. Its force is realized only through the further steps: "well regulated" requiring regulatory content; the content-power reserved to the People; initiation lawful during default; this faithful content answered the command and cured the default.
 1.3.17.1 Ratification-Era Definition
@@ -1425,6 +1432,8 @@ The declaration took effect December 15, 1791 and has never been suspended.
 1.3.17.4 Existence Satisfies Necessity
 The Constitution declares a well regulated Militia necessary to the constitutional order — and to declare a thing necessary is to require it. "Being" makes the declaration continuous; "necessary" makes it requisite (§1.1A.1). 
 It prescribes no specific process.
+
+
 Therefore:
    * When such regulations exist the declared condition is supplied → 
    * When they do not exist the constitutional defect obtains 
@@ -1468,6 +1477,8 @@ The purpose Heller names — "to prevent elimination of the militia" — is, in 
 Heller reads "well regulated" narrowly: the adjective "implies nothing more than the imposition of proper discipline and training." [554 U.S. at 597.] The narrowing is deliberate — the Court limited the phrase to prevent "well regulated" from being read as a grant of comprehensive regulatory authority. It is Heller's gloss, and the Regulations do not adopt it as the framework's own reading.
 The Regulations' reading is broader: the clause declares the well regulated condition as a structural requirement — properly ordered, disciplined, functioning in good order, with the constitutional content the clause names. The Regulations' reading does not depend on Heller's narrow gloss.
 But a floor survives even on Heller's reading. Even on Heller's own gloss, a well-regulated militia entails proper discipline and training; the question therefore becomes whether the constitutionally contemplated militia receives either. The Regulations' factual claim is that the body of the People receives neither.
+
+
 The argument runs in the alternative:
    * Under the Regulations' broader reading — the declared condition requires the structural content the clause names (character, purpose, standards, benchmark). The Regulations supply that content.
    * Under Heller's narrower gloss — the declared condition requires discipline and training. The body of the People receives neither. Even the floor is unmet.
@@ -1491,10 +1502,6 @@ The relevant point is not that ordinary federal law enforcement exists. The gove
 Clause 16 authorizes Congress to provide for "organizing, arming, and disciplining, the Militia." The 10 U.S.C. § 246 framework names the organized militia (the National Guard and Naval Militia) and the unorganized militia (the body of the People not in those classes). The Regulations' factual claim is that the unorganized class receives no federal program supplying the organizing, arming, disciplining, and training contemplated by Clause 16. This is a statutory and factual claim, stated at the level the record supports.
 The two points together: the entity Clause 15 designates has not been constituted for the function Clause 15 assigns; the class Clause 16 authorizes Congress to provide for is not receiving what the clause authorizes. The purpose Heller names — prevent elimination of the militia — describes a state of affairs the operative arrangement does not maintain.
 The framework does not cite Heller for this point. The point is textual and statutory: Clause 15 designates an entity the arrangement has not constituted for the designated function; Clause 16 authorizes provision for a class the arrangement does not serve. These are facts about what the Constitution says and what is happening. Heller is evidence. 
-
-
-
-
 1.3.17.14 The "Reasonable Regulations" Risk
 Heller says the individual right is "not unlimited" and identifies categories of longstanding regulatory measures that its decision does not disturb. [554 U.S. at 626–27 & n.26.] The Regulations are aware that Heller limits the right. But regulation of the right is not the same as constitution of the institution the clause declares necessary. A regulation limiting who may carry arms in a sensitive place does not constitute the Militia. A regulation of the right is not a substitute for the structure the six mentions presuppose.
 Section 12.5 identifies the same risk: Heller affirmed individual Second Amendment rights while permitting regulatory measures, "risking future reinterpretations that could dilute Militia autonomy." (The characterization is §12.5's; Heller does not itself use the phrase "reasonable regulations." The Court's operative language is "longstanding prohibitions" and measures that are "presumptively lawful." [554 U.S. at 626–27 & n.26.]) The framework's concern is that regulation of the right can become the operative substitute for the institution. If the right is regulated within limits and the institution is not constituted, the Court's arrangement permits the declared-necessary condition to remain permanently unmet. The regulatory-measures language is the live risk the framework identifies: the right can be managed while the institution is left unbuilt.
@@ -1531,8 +1538,6 @@ The authority to create Tier 2 provisions derives from the following constitutio
 (b) Parity of Sovereignty: Article I, Section 8, Clause 18 authorizes Congress—a derivative sovereign holding delegated powers—to enact laws necessary and proper to execute its delegated powers. The People—the original sovereign holding reserved powers—possess at least the same latitude to adopt necessary implementing procedures for their reserved powers. The greater includes the lesser.
 (c) Constitutional Completeness: The Second Amendment's declaration that a well regulated Militia is "necessary" requires not merely the existence of regulatory content (Tier 1) but also the procedural infrastructure to make such regulation operational (Tier 2). Proof of this requirement is set forth in Section 1.3.19.
 All Tier 2 provisions derive their constitutional authority from these principles. They are not assumptions of undelegated power but necessary implementations of delegated and reserved powers.
-
-
 1.3.18.2 — Rights and Institutions 
 Distinguished Rights in the Bill of Rights do not operate like new law generation. They are declared, self-executing, and bind immediately upon the government. The First Amendment does not require an agency to make speech free. The Fourth Amendment does not require a rulemaking to make a search unreasonable. Rights bind by the text. Where a right requires an institution to be exercisable — the Sixth Amendment's jury right requires courts and jury pools; the Second Amendment's militia command requires the Militia — the institution is built after the command, not before it. The command exists. The content is supplied. The institution grows from adoption. Content first. Institution second. Phase 1 is content. Phase 2 is institution. Treating the militia command as though it required agency-style notice-and-comment, delegation, or enactment procedure is a category error. The militia command is in the Bill of Rights. It operates as a right operates. 
 1.3.19 The Completeness Theorem: Mathematical Proof of Constitutional Necessity
