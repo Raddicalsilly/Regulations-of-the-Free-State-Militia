@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Release validator for FSM Affirming Dataset v1.0.0 (patched: exact D-token, Appendix, and [A-Z].[IVX]+ token matching, heading-anchored item check, W-MIXED).
+"""Release validator for FSM Affirming Dataset v1 (patched: exact D-token, Appendix, and [A-Z].[IVX]+ token matching, heading-anchored item check, W-MIXED).
 
 Usage:
   python validate_fsm_v1_0_0.py FSM_dataset_v1_0_0.txt

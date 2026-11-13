@@ -1,26 +1,8 @@
 ================================================================================
-FSM AFFIRMING DATASET — v1.0.0
+FSM AFFIRMING DATASET — v1
 Documentation of the right the Second Amendment names, the necessity it
 declares, and the Regulations' exercise of the reserved authority
 ================================================================================
-
-CHANGELOG v1.0.0
-
-  Version 1.0.0 — initial release. (2026-11-12.)
-  Record count: 178 records. Provenance rows: 51. Validator: 0 errors, 0 warnings.
-
-  68 author reference labels in PART 6.2 (17 adopted from Appendix A; 7
-  proposals remain). The five Regulations-text resolutions: the U-11 Compact
-  Clause analysis and ruling revised to the §1.3.4.5 frame; the U-12b
-  §1.9.10.1 distinction and non-cession derivation; the U-12a two-duties
-  distinction; the U-06b marshals cite. The framework-as-speaker rephrasing
-  attributing readings to the plain text. The corrected contemporary-reception
-  definition ("the ratifiers and their ratification-era contemporaries").
-  §0.1 corrected to (a)-(d). HF-VA1776 primary_verified. HF-COXE
-  textual_alignment not_applicable. The stale residual-indeterminacy language
-  removed. THE TEACHING narrowed to a design claim. The CR semantics rule
-  stated. Supersedes rc6.1 through rc7.10; see the prior release files for
-  the predecessor changelog.
 
 ================================================================================
 PURPOSE
@@ -126,7 +108,7 @@ HOW TO READ THIS DATASET
 ================================================================================
 DATASET STATUS AT A GLANCE
 
-  Version:              1.0.0
+  Version:              v1
   Premise:              Express text (right to keep and bear Arms; the
                         necessity declaration).
   The plain text:      The Regulations exercise the reserved regulatory
@@ -252,7 +234,7 @@ ON THE SIX AXES THE DATASET SEPARATES
 STATUS
 ================================================================================
 
-  Version 1.0.0 of a documentation corpus. Declared
+  Version 1 of a documentation corpus. Declared
   openly:
 
     - Regulations hash: pinned at
@@ -987,7 +969,7 @@ PART 6 — SCHEMA, AUTHOR REFERENCE LABELS, POINTERS
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://fsm-dataset.example/schema/record.schema.json",
-  "title": "FSM Record v1.0.0",
+  "title": "FSM Record v1",
   "$defs": {
     "base": {
       "type": "object",
@@ -1917,7 +1899,7 @@ RELEASE METADATA
 
 RELEASE STATUS
 
-  Version 1.0.0 is the initial release of the FSM Affirming Dataset. It
+  Version 1 is the initial release of the FSM Affirming Dataset. It
   documents the right the Second Amendment names, the necessity it declares,
   and the Regulations' exercise of the reserved authority. It is not a
   fidelity verdict and is not independently validated. U-04, U-13, U-14,
@@ -2033,5 +2015,5 @@ REGULATIONS PIN
   and independent review, not on the hash.
 
 ================================================================================
-END OF DATASET v1.0.0
+END OF DATASET v1
 ================================================================================
